@@ -131,8 +131,9 @@
     <ClCompile Include="Main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BlockchainTests.h" />
-    <ClInclude Include="ShamirSecretSharingTests.h" />
+    <ClInclude Include="BlockChainTests.h" />
+    <ClInclude Include="SHATests.h" />
+    <ClInclude Include="ShamirSecretTests.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

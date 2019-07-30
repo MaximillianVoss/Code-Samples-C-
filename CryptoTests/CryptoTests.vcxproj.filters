@@ -23,10 +23,13 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="ShamirSecretSharingTests.h">
+    <ClInclude Include="BlockChainTests.h">
       <Filter>Исходные файлы\Tests</Filter>
     </ClInclude>
-    <ClInclude Include="BlockchainTests.h">
+    <ClInclude Include="SHATests.h">
+      <Filter>Исходные файлы\Tests</Filter>
+    </ClInclude>
+    <ClInclude Include="ShamirSecretTests.h">
       <Filter>Исходные файлы\Tests</Filter>
     </ClInclude>
   </ItemGroup>
